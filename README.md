@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...python, java, node.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...t.me/prince_of_ravana
+- 📫 <html><a hrcf="httos://t.me/prince_of_ravana">reach me on telagram</a>         </html>
 
 <!---
 MR-DARKHACKER/MR-DARKHACKER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
